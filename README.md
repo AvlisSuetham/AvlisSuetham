@@ -40,6 +40,7 @@ Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com exp
 
 ## 💬 Entre em Contato
 - Email: **matheus@email.com**
+- LinkedIn: [Matheus no LinkedIn](https://www.linkedin.com/in/matheus)
 - GitHub: [@AvlisSuetham](https://github.com/AvlisSuetham)
 
 > Feito com 💻 e ❤️ por **Matheus**
