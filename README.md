@@ -20,6 +20,7 @@ Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com exp
 ## 🌱 Estou aprendendo:
 - Desenvolvimento em **Python**
 - Desenvolvimento em **PHP**
+- Desenvolvimento em **C#**
 - **Spring Boot** para back-end
 - **MySQL** e **MongoDB** para bancos de dados
 - **Git** e **GitHub** para controle de versão
@@ -37,6 +38,9 @@ Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com exp
 
 - **Desenvolvedor de Jogos** (Freelancer)  
   Criação de jogos utilizando **Game Maker** e **GML**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
+
+## 🌱 Objetivos Futuros
+Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.
 
 ## 💬 Entre em Contato
 - Email: **matheus@email.com**
