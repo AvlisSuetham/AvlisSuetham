@@ -3,13 +3,20 @@
 ## 🌐 Sobre Mim
 Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com experiência no desenvolvimento de aplicações **front-end** e **back-end**, estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Também me interesso por **game development**, criando jogos com **Game Maker** e **GML**.
 
+Atualmente, sou fundador da **Suetham Studios**, uma iniciativa dedicada à criação de jogos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo projetos criativos que inspirem e entretenham as pessoas.
+
+## 💼 Faça parte da Suetham Studios
+Estamos em busca de pessoas apaixonadas por **game development** e tecnologia para se juntar à nossa equipe. Se você deseja fazer parte da **Suetham Studios**, clique no botão abaixo e preencha nosso formulário de recrutamento:
+
+[![Formulário de Recrutamento](https://img.shields.io/badge/Formulário%20de%20Recrutamento-FF5733?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/LFZgZbst8aeCRMNV8)
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### **Back-end**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -40,7 +47,11 @@ Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com exp
   Criação de jogos utilizando **Game Maker** e **GML**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
 
 ## 🌱 Objetivos Futuros
-Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.
+## 🌱 Objetivos Futuros
+Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.  
+
+Além disso, meu objetivo é expandir a **Suetham Studios**, transformando-a em uma referência na indústria de softwares, criando experiências marcantes e inspiradoras através da inovação tecnológica e artística.
+
 
 ## 💬 Entre em Contato
 - Email: **matheus@email.com**
