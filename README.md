@@ -47,7 +47,6 @@ Estamos em busca de pessoas apaixonadas por **game development** e tecnologia pa
   Criação de jogos utilizando **Game Maker** e **GML**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
 
 ## 🌱 Objetivos Futuros
-## 🌱 Objetivos Futuros
 Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.  
 
 Além disso, meu objetivo é expandir a **Suetham Studios**, transformando-a em uma referência na indústria de softwares, criando experiências marcantes e inspiradoras através da inovação tecnológica e artística.
