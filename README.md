@@ -5,11 +5,6 @@ Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com exp
 
 Atualmente, sou fundador da **Suetham Studios**, uma iniciativa dedicada à criação de jogos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo projetos criativos que inspirem e entretenham as pessoas.
 
-## 💼 Faça parte da Suetham Studios
-Estamos em busca de pessoas apaixonadas por **Desenvolvimento de Software**, **Artes** e **Tecnologia** para se juntar à nossa equipe. Se você deseja fazer parte da **Suetham Studios**, clique no botão abaixo e preencha nosso formulário de recrutamento:
-
-[![Formulário de Recrutamento](https://img.shields.io/badge/Formulário%20de%20Recrutamento-FF5733?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/LFZgZbst8aeCRMNV8)
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Front-end**
