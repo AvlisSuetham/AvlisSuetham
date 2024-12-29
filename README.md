@@ -39,7 +39,7 @@ Atualmente, sou fundador da **Suetham Studios**, uma iniciativa dedicada à cria
   Trabalhei em projetos de desenvolvimento de sites e sistemas web, utilizando tecnologias como **JavaScript**, **React**, **Node.js** e **MongoDB**. Ajudando empresas a criar soluções escaláveis e de fácil manutenção.
 
 - **Desenvolvedor de Jogos** (Freelancer)  
-  Criação de jogos utilizando **Game Maker** e **GML**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
+  Criação de jogos utilizando linguagens como **GML** **Java** e **C++**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
 
 ## 🌱 Objetivos Futuros
 Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.  
