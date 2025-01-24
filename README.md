@@ -3,7 +3,7 @@
 ## 🌐 Sobre Mim
 Sou apaixonado por **tecnologia**, **desenvolvimento web** e **design**. Com experiência no desenvolvimento de aplicações **front-end** e **back-end**, estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Também me interesso por **game development**, criando jogos com **Game Maker** e **GML**.
 
-Atualmente, sou fundador da **Suetham Studios**, uma iniciativa dedicada à criação de jogos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo projetos criativos que inspirem e entretenham as pessoas.
+Atualmente, sou fundador da **Ralo Software**, dedicada à criação de projetos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo programas criativos que inspirem e entretenham as pessoas.
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -44,7 +44,7 @@ Atualmente, sou fundador da **Suetham Studios**, uma iniciativa dedicada à cria
 ## 🌱 Objetivos Futuros
 Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.  
 
-Além disso, meu objetivo é expandir a **Suetham Studios**, transformando-a em uma referência na indústria de softwares, criando experiências marcantes e inspiradoras através da inovação tecnológica e artística.
+Além disso, meu objetivo é expandir a **Ralo Software**, transformando-a em uma referência na indústria, criando experiências marcantes e inspiradoras através da inovação tecnológica e artística.
 
 
 ## 💬 Entre em Contato
