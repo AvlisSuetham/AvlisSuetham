@@ -3,7 +3,7 @@
 ## 🌐 Sobre Mim
 Sou apaixonado por **Tecnologia** e **Desenvolvimento back-end**. Com experiência no desenvolvimento de aplicações **front-end** e **back-end**, estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Também me interesso por **Game Development**, criando jogos com **Game Maker** e **GML**.
 
-Atualmente, sou fundador da **Avlis Dev**, dedicada à criação de projetos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo programas criativos que inspirem e entretenham as pessoas.
+Atualmente, sou fundador da **Sophira**, dedicada à criação de projetos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo programas criativos que inspirem e entretenham as pessoas.
 
 ## 🛠️ Tecnologias & Ferramentas
 
