@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <h1 align="center">Olá, eu sou o <strong>Matheus Pereira</strong> 👋</h1>
+  <h1 align="center">Olá, eu sou o <strong>Matheus</strong> 👋</h1>
   <p align="center">
     <a href="https://sophira.me" target="_blank">
       <img src="https://img.shields.io/badge/Sophira-🚀-blue?style=for-the-badge" alt="Sophira">
