@@ -18,12 +18,11 @@
 Sou **Desenvolvedor Back‑end** apaixonado por criar soluções escaláveis e eficientes. Tenho experiência em aplicações **front‑end** e **back‑end**, e também me aventuro em **Game Development** com Game Maker (GML), Unity e Godot. Atualmente, lidero a **Sophira**, onde buscamos unir arte e tecnologia para projetos inovadores:  
 🔗 [sophira.me](https://sophira.me)
 
----
 ## 🗂️ Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/AvlisSuetham/hellbound](https://github.com/AvlisSuetham/Menux" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=hellbound&theme=github_dark" alt="Menux" />
+  <a href="https://github.com/AvlisSuetham/Menux" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=Menux&theme=github_dark" alt="Menux" />
   </a>
   <a href="https://github.com/AvlisSuetham/sophira-play" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=sophira-play&theme=github_dark" alt="sophira-play" />
