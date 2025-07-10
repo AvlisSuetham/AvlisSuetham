@@ -1,53 +1,122 @@
-# Olá, eu sou o **Matheus** 👋
+<!-- Banner -->
+<p align="center">
+  <h1 align="center">Olá, eu sou o <strong>Matheus Pereira</strong> 👋</h1>
+  <p align="center">
+    <a href="https://sophira.me" target="_blank">
+      <img src="https://img.shields.io/badge/Sophira-🚀-blue?style=for-the-badge" alt="Sophira">
+    </a>
+    <a href="#💬-entre-em-contato" >
+      <img src="https://img.shields.io/badge/Contato-📬-brightgreen?style=for-the-badge" alt="Contato">
+    </a>
+  </p>
+</p>
+
+---
 
 ## 🌐 Sobre Mim
-Sou apaixonado por **Tecnologia** e **Desenvolvimento back-end**. Com experiência no desenvolvimento de aplicações **front-end** e **back-end**, estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Também me interesso por **Game Development**, criando jogos com **Game Maker** e **GML**.
 
-Atualmente, sou fundador da **Sophira** (https://sophira.me), dedicada à criação de projetos inovadores e experiências interativas marcantes. Meu objetivo é explorar tanto a arte quanto a tecnologia, desenvolvendo programas criativos que inspirem e entretenham as pessoas.
+Sou **Desenvolvedor Back‑end** apaixonado por criar soluções escaláveis e eficientes. Tenho experiência em aplicações **front‑end** e **back‑end**, e também me aventuro em **Game Development** com Game Maker (GML), Unity e Godot. Atualmente, lidero a **Sophira**, onde buscamos unir arte e tecnologia para projetos inovadores:  
+🔗 [sophira.me](https://sophira.me)
 
-## 🛠️ Tecnologias & Ferramentas
+---
 
-### **Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+## 🛠️ Stack de Tecnologias
 
-### **Back-end**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<div align="center">
+  <!-- Front‑end -->
+  <h4 align="left">Front‑end</h4>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  </p>
 
-### **Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- Back‑end -->
+  <h4 align="left">Back‑end</h4>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-800080?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+  </p>
 
-### **Outras Ferramentas**
-![Game Maker Language](https://img.shields.io/badge/GML-232323?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+  <!-- Banco de Dados -->
+  <h4 align="left">Banco de Dados</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  </p>
 
-## 📚 Estou aprendendo:
-- Desenvolvimento em **Node.js**
-- Desenvolvimento em **Python**
-- Desenvolvimento em **C#**
-- **Spring Boot** para back-end
-- **MySQL** e **MongoDB** para bancos de dados
-- **Git** e **GitHub** para controle de versão
+  <!-- Ferramentas -->
+  <h4 align="left">Ferramentas & Outros</h4>
+  <p>
+    <img src="https://img.shields.io/badge/GML-232323?style=flat-square&logo=itchdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </p>
+</div>
 
-## 🚀 Desenvolvimento
-- **Game Development**: Tenho experiência em criar jogos utilizando **Game Maker**, **Unity** e **Godot**, gosto de explorar conceitos de física, mecânicas de jogo e narrativa interativa para criar experiências divertidas e imersivas. Também trabalho com a implementação de sistemas e inteligência artificial dentro dos jogos.
+---
 
-- Desenvolvimento de aplicações **web** dinâmicas e escaláveis.
-- APIs **RESTful** com **PHP**, **Java** e **Node.js**.
-- Design responsivo utilizando **CSS** e frameworks como **Bootstrap**.
+## 📚 No momento estou estudando
+
+- **Node.js** (Back‑end moderno)
+- **Spring Boot** (Java)
+- **C#** (.NET)
+- **MySQL** & **MongoDB** (Modelagem de dados)
+- **Git** & **GitHub** (Fluxos de trabalho avançados)
+
+---
+
+## 🚀 Projetos & Desenvolvimento
+
+- **Game Development**  
+  Criação de jogos 2D/3D com **GML**, **Unity** e **Godot**, focando em mecânicas, IA de NPCs e design de níveis.
+
+- **APIs RESTful**  
+  Construção de serviços escaláveis em **PHP**, **Java** e **Node.js**, com autenticação JWT e documentação OpenAPI.
+
+- **Web Apps Responsivos**  
+  Interfaces modernas com **HTML**, **CSS** (Flex/Grid) e frameworks como **Bootstrap** e **Tailwind CSS**.
+
+---
 
 ## 💼 Experiência Profissional
-- **Desenvolvedor Web** (Freelancer)  
-  Trabalhei em projetos de desenvolvimento de sites e sistemas web, utilizando tecnologias como **PHP**, **JavaScript**, **React**, **Node.js** e **MongoDB**. Ajudando empresas a criar soluções escaláveis e de fácil manutenção.
 
-- **Desenvolvedor de Jogos** (Freelancer)  
-  Criação de jogos utilizando as linguagens de programação **GML**, **Java** e **C++**, com ênfase em mecânicas de jogo e design de níveis. Desenvolvimento de jogos para plataformas como PC e dispositivos móveis.
+**Desenvolvedor Web (Freelancer)**  
+_Trabalhei em projetos full‑stack, entregando soluções em PHP, React, Node.js e MongoDB para clientes diversos._
 
-## 🌱 Objetivos Futuros
-Almejo me tornar um **engenheiro de software**, aprofundando meus conhecimentos em **arquitetura de sistemas**, **engenharia de software** e **processos de desenvolvimento ágil**. Estou comprometido em continuar aprendendo e me aprimorando para contribuir de forma significativa em projetos desafiadores e inovadores no futuro.  
+**Desenvolvedor de Jogos (Freelancer)**  
+_Criação de jogos para PC e mobile em GML, Java e C++, com ênfase em jogabilidade, design de níveis e otimização._
 
-Além disso, meu objetivo é expandir a **Sophira** (https://sophira.me), transformando-a em uma referência na indústria, criando experiências marcantes e inspiradoras através da inovação tecnológica e artística.
+---
+
+## 🎯 Objetivos Futuros
+
+1. Tornar‑me **Engenheiro de Software**, aprofundando‑me em arquitetura de sistemas e metodologias ágeis.  
+2. Expandir a **Sophira** como referência em inovação, unindo tecnologia e arte em experiências impactantes.
+
+---
 
 ## 💬 Entre em Contato
-- Email: **matheus@email.com**
-- GitHub: [@AvlisSuetham](https://github.com/AvlisSuetham)
 
-> Feito com 💻 e ❤️ por **Matheus**
+<p align="center">
+  <a href="mailto:matheus@email.com">
+    <img src="https://img.shields.io/badge/Email-✉️-orange?style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://github.com/AvlisSuetham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-🐱-black?style=for-the-badge" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<sub>Feito com ❤️ e código por **Matheus**</sub>
