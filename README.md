@@ -24,12 +24,6 @@ Sou **Desenvolvedor Back‑end** apaixonado por criar soluções escaláveis e e
   <a href="https://github.com/AvlisSuetham/Menux" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=Menux&theme=github_dark" alt="Menux" />
   </a>
-  <a href="https://github.com/AvlisSuetham/sophira-play" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=sophira-play&theme=github_dark" alt="sophira-play" />
-  </a>
-  <a href="https://github.com/AvlisSuetham/sophira-os" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=AvlisSuetham&repo=sophira-os&theme=github_dark" alt="sophira-os" />
-  </a>
 </div>
 
 ## 🛠️ Stack de Tecnologias
