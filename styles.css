@@ -1,0 +1,141 @@
+:root {
+  /* Tema claro — suave e clean */
+  --bg-gradient: linear-gradient(135deg, #dbe9fb, #a3c4f3);
+  --text-color: #1e293b; /* azul escuro suave */
+  --textarea-bg: #f5f9ff;
+  --textarea-color: #1e293b;
+  --textarea-shadow-inset-light: #c9daf8;
+  --textarea-shadow-inset-dark: #9bbbef;
+  --button-bg: #74a9f7;
+  --button-color: #f9fafe;
+  --button-shadow: rgba(116, 169, 247, 0.35);
+  --button-hover-bg: #5a8de0;
+  --button-hover-shadow: rgba(90, 141, 224, 0.45);
+  --button-active-bg: #4b75c2;
+  --button-active-color: #e3ebfc;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--bg-gradient);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+  max-width: 600px;
+  min-height: 120px;
+  padding: 15px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  border: none;
+  resize: vertical;
+  background: var(--textarea-bg);
+  color: var(--textarea-color);
+  box-shadow: inset 2px 2px 6px var(--textarea-shadow-inset-dark), inset -2px -2px 6px var(--textarea-shadow-inset-light);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+textarea:focus {
+  outline: none;
+  background: var(--button-hover-bg);
+  color: var(--button-color);
+}
+
+.btn-group {
+  margin: 1rem 0;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  max-width: 600px;
+}
+
+button {
+  flex: 1 1 140px;
+  background: var(--button-bg);
+  border: none;
+  border-radius: 10px;
+  padding: 14px 20px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--button-color);
+  cursor: pointer;
+  box-shadow: 0 3px 6px var(--button-shadow);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+  user-select: none;
+}
+
+button:hover,
+button:focus {
+  background: var(--button-hover-bg);
+  box-shadow: 0 4px 10px var(--button-hover-shadow);
+  outline: none;
+}
+
+button:active {
+  background: var(--button-active-bg);
+  color: var(--button-active-color);
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#outputText {
+  width: 100%;
+  max-width: 600px;
+  min-height: 100px;
+  margin-top: 15px;
+  padding: 15px;
+  font-family: monospace, monospace;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  border: none;
+  background: var(--textarea-bg);
+  color: var(--textarea-color);
+  box-shadow: inset 2px 2px 6px var(--textarea-shadow-inset-dark), inset -2px -2px 6px var(--textarea-shadow-inset-light);
+  resize: vertical;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@media (max-width: 480px) {
+  button {
+    flex: 1 1 100%;
+    font-size: 1.15rem;
+    padding: 18px;
+  }
+  textarea,
+  #outputText {
+    font-size: 1.15rem;
+    min-height: 140px;
+  }
+}
+
+/* Tema escuro — também mais suave */
+body.dark-theme {
+  --bg-gradient: linear-gradient(135deg, #24344f, #162b54);
+  --text-color: #d0d9f2;
+  --textarea-bg: #2e3a60;
+  --textarea-color: #d0d9f2;
+  --textarea-shadow-inset-light: #445b8f;
+  --textarea-shadow-inset-dark: #1b2a5d;
+  --button-bg: #4c6ef5;
+  --button-color: #d0d9f2;
+  --button-shadow: rgba(76, 110, 245, 0.35);
+  --button-hover-bg: #3b5cd3;
+  --button-hover-shadow: rgba(59, 92, 211, 0.45);
+  --button-active-bg: #2f48a0;
+  --button-active-color: #b8c6e9;
+}
