@@ -31,8 +31,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUserGitHub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserGitHub&layout=compact&theme=radical)  
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=AvlisSuetham&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvlisSuetham&layout=compact&theme=radical)  
 
 ---
 
