@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** PHP, JavaScript, C#, GML (GameMaker), Python  
+- **Linguagens:** PHP, JavaScript, C#, C++, GML (GameMaker), Python, Java, Kotlin  
 - **Frameworks:** Laravel, Node.js  
 - **Frontend:** HTML, CSS, Tailwind, Blade  
 - **Banco de Dados:** MySQL, MariaDB  
